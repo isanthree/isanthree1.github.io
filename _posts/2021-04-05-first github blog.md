@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      hhh_title
+title:      first github blog
 subtitle:   hhh_subtitle
 date:       2021-04-05
 author:     isanthree
